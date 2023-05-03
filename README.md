@@ -36,7 +36,20 @@ Defragmentation TS2 Contacts:
 
 
 # Training School preparation #
-#### Day 1: <br> <p></p>
+Trainees are kindly asked to get ready for the TS2 by doing the following homework in advance.
+#### Day 1 <br>
+<p>Get the following accounts for :
+
+- Galaxy account: https://live.usegalaxy.eu/login/start?redirect=None
+
+- Google account for Colab : Google [Sign up](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)
+(a working Google account, not a linked account that you manage with Google). Make sure the account has enough free space (~ several GB) on it.
+- A Github account for Binder: [Sign up](https://github.com/)
+
+- follow the instructions from Dr. Bugra Oezdemir to access BAND (sent via email) and run the script that installs the needed software on the remote desktop.
+
+</p>
+
 #### Day 2: <br> <p></p>
 #### Day 3: <br> <p></p>
 #### Day 4: <br> <p></p>

@@ -14,6 +14,13 @@ A training school for the new generation of bioimage analysts. Topics: workflow-
 |-----|-----|--------|---------|---------|
 
 <br>
+Defragmentation TS2 is part of the NEUBIAS 5th Conference:
+https://eubias.org/NEUBIAS/neubias2020-conference/portugal-2023/
+<br>
+
+
+<br>
+
 Scientific Organizers: <b>Paula Sampaio, Rocco D'Antuono, Aastha Mathur, Beatriz Serrano Solano, Ana Stojiljkovic, Maria Azevedo, Kota Miura, Julien Colombelli</b>.
 <br>
 <br>
@@ -21,7 +28,7 @@ Event Timing:
 8-12 May 2023, Porto, PT
 <br>
 <br>
-Contacts:
+Defragmentation TS2 Contacts:
 <li>Paula Sampaio, i3S, Porto, sampaio@i3s.up.pt
 <li>Rocco D'Antuono, The Francis Crick Institute, London, rocco.dantuono@crick.ac.uk  
 

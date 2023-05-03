@@ -1,6 +1,6 @@
 # Defragmentation Training School 2 - NEUBIAS Academy & EOSC-Life 2023
 
-![](Defragmentation_TS_2022_banner.png)
+![](Defragmentation_TS2-banner.png)
 
 
 A training school for the new generation of bioimage analysts. Topics: workflow-based image analysis and new integrated methods for cloud computing applied to life sciences.

@@ -10,8 +10,12 @@ A training school for the new generation of bioimage analysts. Topics: workflow-
 
 #### Programme:
 
-|Date | Day | Topics | Sessions| Time|
-|-----|-----|--------|---------|---------|
+|Date | Day | Sessions| Speakers | Time|
+|-----|-----|---------|---------|---------|
+|8 May | Day 1 | <b>Welcome. Overview and logistics</b><br><br> <p><b>Student introductions</b></p><br></p> <p><b>Introduction: What is bioimage analysis?</b></p><br><br><p><b>Jupyter for interactive cloud computing</b></p><br><br><br><p><b>Cloud-hosted image data storage, visualisation and sharing</b></p><br><br><p><b>Work on your own data</b></p><br><br> <p><b>OMERO</b></p>| <br><br><p>Paula Sampaio & Rocco D'Antuono</p> <br><br><br><p>Kota Miura</p><br><br><p>Guillaume Witz</p><br><br><br><p>Bugra Oezdemir</p><br><br><p>Rocco D'Antuono & other Trainers</p> <br><br><p> Petr Walczysko </p> <br> <br>|<p> 09:00 </p><br><br><br><p> 09:30 <br><br></p><br><p> 11:30 </p><br><br><br><br><p> 14:00 <br></p><br><br><p>15:30</p><br><br><p> 16:00 </p>|
+
+
+
 
 <br>
 Defragmentation TS2 is part of the NEUBIAS 5th Conference:

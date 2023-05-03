@@ -16,10 +16,11 @@ A training school for the new generation of bioimage analysts. Topics: workflow-
 <br>
 Scientific Organizers: <b>Paula Sampaio, Rocco D'Antuono, Aastha Mathur, Beatriz Serrano Solano, Ana Stojiljkovic, Maria Azevedo, Kota Miura, Julien Colombelli</b>.
 <br>
-
+<br>
 Event Timing:
 8-12 May 2023, Porto, PT
-
+<br>
+<br>
 Contacts:
 <li>Paula Sampaio, i3S, Porto, sampaio@i3s.up.pt
 <li>Rocco D'Antuono, The Francis Crick Institute, London, rocco.dantuono@crick.ac.uk  

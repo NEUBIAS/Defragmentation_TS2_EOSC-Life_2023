@@ -55,9 +55,9 @@ Trainees are kindly asked to get ready for the TS2 by doing the following homewo
 - A Github account for Binder: [Sign up](https://github.com/)
 
 - follow the instructions from Dr. Bugra Oezdemir to access BAND and run the script that installs the needed software on the remote desktop.
- - Instructions: https://tinyurl.com/3rcwhs4d
- - Repository for the tools: https://github.com/Euro-BioImaging/OME_Zarr_Tools
- - Training page: https://neubias.github.io/training-resources/ome_zarr/index.html
+  - Instructions: https://tinyurl.com/3rcwhs4d
+  - Repository for the tools: https://github.com/Euro-BioImaging/OME_Zarr_Tools
+  - Training page: https://neubias.github.io/training-resources/ome_zarr/index.html
 
 </p>
 

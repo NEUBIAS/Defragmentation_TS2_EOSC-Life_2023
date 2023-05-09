@@ -61,9 +61,11 @@ Trainees are kindly asked to get ready for the TS2 by doing the following homewo
 
 </p>
 
-### Day 2: <br> 
+
+#### Day 2: <br>
+
 <p>Download and install mambaforge following the instructions in this blog post: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
-  
+
 Follow the instructions there up to the 'Starting napari' sub-title.
   
 #### Zero-Code Deep Learning tools for BioImage Analysis
@@ -90,9 +92,22 @@ Follow the instructions there up to the 'Starting napari' sub-title.
 
  
 </p>
+
 ### Day 3: <br> <p></p>
 ### Day 4: <br> <p></p>
 ### Day 5: <br> <p></p>
+=======
+
+#### Day 3: <br>
+<p>everyone should have a   
+
+- GitHub account: https://github.com/
+
+- Docker Hub account: https://hub.docker.com/
+
+BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
+</p>
+
 
 # Training School material #
 ### Day 1:

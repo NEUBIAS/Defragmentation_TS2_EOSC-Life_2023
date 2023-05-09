@@ -45,7 +45,7 @@ Defragmentation TS2 Contacts:
 
 # Training School preparation #
 Trainees are kindly asked to get ready for the TS2 by doing the following homework in advance.
-#### Day 1 <br>
+### Day 1 <br>
 <p>Get the following accounts for :
 
 - Galaxy account: https://live.usegalaxy.eu/login/start?redirect=None
@@ -61,12 +61,42 @@ Trainees are kindly asked to get ready for the TS2 by doing the following homewo
 
 </p>
 
+
 #### Day 2: <br>
+
 <p>Download and install mambaforge following the instructions in this blog post: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
 
 Follow the instructions there up to the 'Starting napari' sub-title.
+  
+#### Zero-Code Deep Learning tools for BioImage Analysis
+**Fiji installation:**
+  - Download and install it from [here](https://imagej.net/software/fiji/downloads)
+  - Install the plugins deepImageJ and MorphoLibJ using the Updater of Fiji:
+      - Help > Update… > Open the “Manage update sites”. 
+      - Select DeepImageJ, IJPB-Plugins (i.e., MorpholibJ)
+  - Close Fiji and open it again. You're ready!
 
+**Transfer the data to your Google Drive**
+  - [Link to the data](https://go.epfl.ch/neubias). Download the `ctc-glioblastoma` folder.
+
+**Open the ZeroCostDL4Mic notebook for the 2D U-Net multilabel**
+  - Link to the notebook in the [BioImage Model Zoo](https://bioimage.io/#/?type=application&tags=unet&id=zero%2Fnotebook_u-net_2d_multilabel_zerocostdl4mic).
+  - You can also find all the notebooks in [ZeroCostDL4Mic Wiki Page](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks).
+  
+  
+*Resources:*
+- DeepImageJ Gómez-de-Mariscal, E., et al., Nat Meth 2021, [doi:10.1038/s41592-021-01262-9](https://doi.org/10.1038/s41592-021-01262-9)
+- MorpholibJ Legland, D., Arganda-Carreras, I., & Andrey, P., Bioinformatics, 2016, [doi:10.1093/bioinformatics/btw413](https://doi.org/10.1093/bioinformatics/btw413)
+- ZeroCostDL4Mic: von Chamier, L. et al., Nat Comm 2022, [doi:10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
+- BioImage Model Zoo Ouyang, W., et al., bioRxiv 2022, [doi:10.1101/2022.06.07.495102](https://doi.org/10.1101/2022.06.07.495102)
+
+ 
 </p>
+
+### Day 3: <br> <p></p>
+### Day 4: <br> <p></p>
+### Day 5: <br> <p></p>
+=======
 
 #### Day 3: <br>
 <p>everyone should have a   
@@ -78,18 +108,16 @@ Follow the instructions there up to the 'Starting napari' sub-title.
 BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
 </p>
 
-#### Day 4: <br> <p>NEUBIAS Open Symposium</p>
-#### Day 5: <br> <p>NEUBIAS Open Symposium</p>
 
 # Training School material #
-#### Day 1:
+### Day 1:
 
-#### Day 2:
-
-
-#### Day 3:
+### Day 2:
 
 
-#### Day 4:
+### Day 3:
 
-#### Day 5:
+
+### Day 4:
+
+### Day 5:

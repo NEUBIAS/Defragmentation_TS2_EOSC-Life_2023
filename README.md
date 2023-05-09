@@ -104,7 +104,12 @@ Download "Beginner Segmentation" materials from here: https://tutorials.cellprof
 
 ### Day 3: <br>
 <p>
-everyone should have a   
+You need a Docker Hub account with the same name as your GitHub account. Docker Hub allows only letters and digits. ‘-’ on GitHub will be removed for Docker Hub
+Everything will be made lower-case for Docker Hub, like follows:
+
+volker-baecker   ->   volkerbaecker
+
+Create you accounts:
 
 - GitHub account: https://github.com/
 

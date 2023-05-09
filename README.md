@@ -75,6 +75,7 @@ Follow the instructions there up to the 'Starting napari' sub-title.
 
 - Docker Hub account: https://hub.docker.com/
 
+BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
 </p>
 
 #### Day 4: <br> <p>NEUBIAS Open Symposium</p>

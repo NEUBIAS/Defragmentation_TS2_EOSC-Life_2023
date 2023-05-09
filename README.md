@@ -88,6 +88,17 @@ Follow the instructions there up to the 'Starting napari' sub-title.
 - ZeroCostDL4Mic: von Chamier, L. et al., Nat Comm 2022, [doi:10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
 - BioImage Model Zoo Ouyang, W., et al., bioRxiv 2022, [doi:10.1101/2022.06.07.495102](https://doi.org/10.1101/2022.06.07.495102)
 
+#### Instructions for CellProfiler presentation:
+
+If you don't have it yet, install CellProfiler, either:
+
+* built package: https://cellprofiler.org/releases
+* python package (in a conda or virtual environment): pip install "cellprofiler==4.2.5"
+* from source (also in a new environment): https://github.com/CellProfiler/CellProfiler/wiki
+  * this option is more involved, including installing java
+Download "Beginner Segmentation" materials from here: https://tutorials.cellprofiler.org/
+
+[Optional] install docker from here: https://www.docker.com/, and dockerfile from here: https://github.com/CellProfiler/distribution/tree/master/docker
 
 </p>
 

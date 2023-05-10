@@ -65,10 +65,10 @@ Trainees are kindly asked to get ready for the TS2 by doing the following homewo
 <p>
 
 #### GPU-Accelerated Image Processing and Machine Learning
-  
+
 - Download and install mambaforge following the instructions in this blog post: https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
 Follow the instructions there up to the 'Starting napari' sub-title.
-  
+
 - Link to slides: https://f1000research.com/slides/12-473
 
 - Link to Github repository with exercises/demonstrations: https://github.com/zoccoler/GPU_Accelerated_Image_Processing_on_Cloud_NEUBIAS_Defragmentation_TS2_2023
@@ -131,6 +131,7 @@ BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
 =======
 
 # Training School material #
+(uploaded at the end of the school)
 ### Day 1:
 
 ### Day 2:

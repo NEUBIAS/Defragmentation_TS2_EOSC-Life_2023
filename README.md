@@ -14,7 +14,7 @@ A training school for the new generation of bioimage analysts. Topics: workflow-
 |-----|-----|---------|---------|---------|
 |8 May | Day 1 | <b>Welcome. Overview and logistics</b><br><br> <p><b>Student introductions</b></p><br></p> <p><b>Introduction: What is bioimage analysis?</b></p><br><br><p><b>Jupyter for interactive cloud computing</b></p><br><br><p><b>Cloud-hosted image data storage, visualisation and sharing</b></p><br><br><p><b>Work on your own data</b></p><br><br> <p><b>OMERO</b></p>| <br><br><p>Paula Sampaio & Rocco D'Antuono</p> <br><br><br><p>Kota Miura</p><br><br><p>Guillaume Witz</p><br><br><p>Bugra Oezdemir</p><br><br><p>Rocco D'Antuono & other Trainers</p> <br><br><br><p> Petr Walczysko </p> <br> <br>|<p> 09:00 </p><br><br><br><p> 09:30 <br><br></p><br><p> 11:30 </p><br><br><br><br><p> 14:00 <br></p><br><br><p>15:30</p><br><br><p> 16:00 </p>|
 |9 May | Day 2 | <p><b>Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing</b></p><br></p> <p><b>Zero code Deep Learning tools for Bioimage Analysis</b></p><br><br><p><b>Analysis of Microtubule Orientation</b></p><br><br><p><b>CellProfiler for HCS data on the cloud</b></p><br><br><p><b>Work on your own data</b></p>| <p>Marcelo Zoccoler</p> <br><br><p>Daniel Sage and Estibaliz Gomez de Mariscal</p><br><br><p>Thomas Pengo</p><br><br><p>Nodar Gogoberidze & Anna Klemm</p><br><br><p>Rocco D'Antuono & other Trainers</p>|<p> 09:00 </p><br><br><p> 11:30 <br><br></p><br><p> 14:00 </p><br><br><p> 15:00 <br></p><br><p> 17:00 </p>|
-|10 May | Day 3 | <p><b>Metrics and Benchmarking</b></p><br></p> <p><b>BIAFLOWS: A BioImage Analysis workflows benchmarking platform</b></p><br><br><p><b>Machine and Deep Learning on the Cloud: Classification</b></p><br><br><p><b>Machine and Deep Learning on the Cloud: Segmentation</b></p><br><br><p><b>Work on your own data</b></p>| <p>Martin Maška</p> <br><br><p>Sébastien Tosi, Volker Baecker, and Benjamin Pavie</p><br><br><p>Felix Mercier</p><br><br><p>Ignacio Arganda Carreras</p><br><br><p>Rocco D'Antuono & other Trainers</p>|<p> 09:00 </p><br><br><p> 10:00 <br><br></p><br><p> 12:00 </p><br><br><p> 12:30 <br></p><br><p> 16:30 </p>|
+|10 May | Day 3 | <p><b>Metrics and Benchmarking</b></p><br></p> <p><b>BIAFLOWS: A BioImage Analysis workflows benchmarking platform</b></p><br><br><p><b>Machine and Deep Learning on the Cloud: Classification</b></p><br><br><p><b>[Machine and Deep Learning on the Cloud: Segmentation](https://docs.google.com/presentation/d/1NyYyPZ_u9JJ35PQI_ZTjU9wAJnqdvuF4K0MfT_Pmpe8/edit#slide=id.g6ee2a06502_2_69)</b></p><br><br><p><b>Work on your own data</b></p>| <p>Martin Maška</p> <br><br><p>Sébastien Tosi, Volker Baecker, and Benjamin Pavie</p><br><br><p>Felix Mercier</p><br><br><p>Ignacio Arganda Carreras</p><br><br><p>Rocco D'Antuono & other Trainers</p>|<p> 09:00 </p><br><br><p> 10:00 <br><br></p><br><p> 12:00 </p><br><br><p> 12:30 <br></p><br><p> 16:30 </p>|
 |11 May | Day 4 | Symposium|
 |12 May | Day 5 | Symposium|
 
@@ -42,7 +42,7 @@ Defragmentation TS2 Contacts:
 
 </br> Please use the following subject: Defragmentation TS2
 
-
+---
 # Training School preparation #
 Trainees are kindly asked to get ready for the TS2 by doing the following homework in advance.
 ### Day 1 <br>
@@ -125,14 +125,12 @@ Create you accounts:
 BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
 </p>
 
-
-### Day 4: <br> <p></p>
-### Day 5: <br> <p></p>
-=======
+---
 
 # Training School material #
 (uploaded at the end of the school)
 ### Day 1:
+
 
 ### Day 2:
 
@@ -141,5 +139,12 @@ BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
 
 
 ### Day 4:
+- AI4Life Session
+  - [Deep learning-based bioimage analysis workflows for all audiences: BiaPy](https://docs.google.com/presentation/d/1qHizZnaJAiy0fWcmUUIMNzX3k7ImCyrhtG6WfTasABs/edit#slide=id.g6ee2a06502_2_69)
+  - [Deep learning enabled cellular imaging: making it happen for you](https://drive.google.com/file/d/1qIMtP09006zWMhBnenwSH_jrsFVsSJcx/view)
+  - Segment Anything for Microscopy
+  - Deep learning with sparse annotations in cell image segmentation
+  - Data Analysis for Super-Resolution Microscopy in nanomedicine
+  - Arkitekt - Streaming analysis and real-time workflows for microscopy 
 
 ### Day 5:

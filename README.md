@@ -142,9 +142,9 @@ BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
 - AI4Life Session
   - [Deep learning-based bioimage analysis workflows for all audiences: BiaPy](https://docs.google.com/presentation/d/1qHizZnaJAiy0fWcmUUIMNzX3k7ImCyrhtG6WfTasABs/edit#slide=id.g6ee2a06502_2_69)
   - [Deep learning enabled cellular imaging: making it happen for you](https://drive.google.com/file/d/1qIMtP09006zWMhBnenwSH_jrsFVsSJcx/view)
-  - Segment Anything for Microscopy
-  - Deep learning with sparse annotations in cell image segmentation
-  - Data Analysis for Super-Resolution Microscopy in nanomedicine
+  - [Segment Anything for Microscopy](/slides/Segment%20Anything%20for%20Microscopy.pdf)
+  - [Deep learning with sparse annotations in cell image segmentation](/slides/Deep%20learning%20with%20sparse%20annotations%20in%20cell%20image%20segmentation.pdf)
+  - [Data Analysis for Super-Resolution Microscopy in nanomedicine](/slides/Data%20Analysis%20for%20Super-Resolution%20Microscopy%20in%20nanomedicine.pdf)
   - Arkitekt - Streaming analysis and real-time workflows for microscopy 
 
 ### Day 5:

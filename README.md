@@ -127,24 +127,34 @@ BIAFLOWS sandbox server: https://biaflows-sandbox.neubias.org
 
 ---
 
-# Training School material #
-(uploaded at the end of the school)
-### Day 1:
+# Training School & Symposium material #
 
+### Day 1:
+- Introduction: What is bioimage analysis?<br />**Kota Miura**
+- [Jupyter for interactive cloud computing](https://docs.google.com/presentation/d/1_lkl1qYcrYgygQMRPaxOfI3Iyih5T1cPWHn_n1DUQz8/edit#slide=id.ga456d5535c_2_53)<br />**Guillaume Witz**
+- [Cloud-hosted image data storage, visualization and sharing](https://docs.google.com/presentation/d/19-h23GUy5LnB5ahhxugJzAX-ANXzwNTCkfjwWesiOwc/edit#slide=id.p1) <br />**Bugra Oezdemir**
+- [OMERO](https://downloads.openmicroscopy.org/presentations/2023/Neubias/NEUBIAS-Slides.pdf)<br />**Petr Walczysko**
 
 ### Day 2:
-
+- [Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing](https://f1000research.com/slides/12-473)<br/>**Marcelo Zoccoler**
+- [Zero code Deep Learning tools for Bioimage Analysis](https://drive.google.com/file/d/105k0wCrHb4n6VMjv6JuvrU3MA7zv2Nil/view?usp=drive_link)<br/>**Daniel Sage & Estibaliz Gómez de Mariscal**
+- [CellProfiler for HCS data on the cloud](https://docs.google.com/presentation/d/1DNkPd4ea8LbQ1IdbjZXaCNdvByfoVeB4/edit#slide=id.g240968d0390_0_0)<br/>**Nodar Gogoberidze**
 
 ### Day 3:
-
+- [Metrics and Benchmarking](https://www.fi.muni.cz/~xmaska/NEUBIAS23/presentation_neubias23_ts.pdf)<br/> **Martin Maška**
+- [BIAFLOWS: A BioImage Analysis workflows benchmarking platform](https://docs.google.com/presentation/d/10PPEx9yLDZdgPp0zCWETJcN02z_vpgsM/edit#slide=id.p1)<br/>**Sébastien Tosi, Volker Bäcker & Benjamin Pavie**
+- [Machine and Deep Learning on the Cloud: Classification](https://drive.google.com/file/d/12HlF-9DEHUvDkm-BgbGcjEwvWuUN0RbU/view)<br/>**Félix Mercier**
+- [Machine and Deep Learning on the Cloud: Segmentation](https://docs.google.com/presentation/d/1NyYyPZ_u9JJ35PQI_ZTjU9wAJnqdvuF4K0MfT_Pmpe8/edit#slide=id.g6ee2a06502_2_69)<br/>**Ignacio Arganda-Carreras**
 
 ### Day 4:
-- AI4Life Session
-  - [Deep learning-based bioimage analysis workflows for all audiences: BiaPy](https://docs.google.com/presentation/d/1qHizZnaJAiy0fWcmUUIMNzX3k7ImCyrhtG6WfTasABs/edit#slide=id.g6ee2a06502_2_69)
-  - [Deep learning enabled cellular imaging: making it happen for you](https://drive.google.com/file/d/1qIMtP09006zWMhBnenwSH_jrsFVsSJcx/view)
-  - [Segment Anything for Microscopy](/slides/Segment%20Anything%20for%20Microscopy.pdf)
-  - [Deep learning with sparse annotations in cell image segmentation](/slides/Deep%20learning%20with%20sparse%20annotations%20in%20cell%20image%20segmentation.pdf)
-  - [Data Analysis for Super-Resolution Microscopy in nanomedicine](/slides/Data%20Analysis%20for%20Super-Resolution%20Microscopy%20in%20nanomedicine.pdf)
-  - Arkitekt - Streaming analysis and real-time workflows for microscopy 
+- Session 2:  AI4Life
+  - [Deep learning-based bioimage analysis workflows for all audiences: BiaPy](https://docs.google.com/presentation/d/1qHizZnaJAiy0fWcmUUIMNzX3k7ImCyrhtG6WfTasABs/edit#slide=id.g6ee2a06502_2_69) <br/> **Ignacio Arganda-Carreras**
+  - [Deep learning enabled cellular imaging: making it happen for you](https://drive.google.com/file/d/1qIMtP09006zWMhBnenwSH_jrsFVsSJcx/view)<br/> **Estibaliz Gómez de Mariscal**
+  - [Segment Anything for Microscopy](/slides/Segment%20Anything%20for%20Microscopy.pdf)<br/> **Constantin Pape**
+  - [Deep learning with sparse annotations in cell image segmentation](/slides/Deep%20learning%20with%20sparse%20annotations%20in%20cell%20image%20segmentation.pdf)<br/> **Ko Sugavara**
+  - [Data Analysis for Super-Resolution Microscopy in nanomedicine](/slides/Data%20Analysis%20for%20Super-Resolution%20Microscopy%20in%20nanomedicine.pdf)<br/> **Cristina Izquierdo Lozano**
+  - Arkitekt - Streaming analysis and real-time workflows for microscopy <br/> **Johannes Roos**
 
 ### Day 5:
+- Session 3: Data Management and Infrastructures
+  - [FAIR workflows](https://docs.google.com/presentation/d/1ggJL-N4SoUzPLT18-L2exCMY2nNNRy6ACtO1SjVXc_Y/edit#slide=id.g23b325940bc_0_1973)<br/>**Beatriz Serrano-Solano**
